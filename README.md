@@ -1,13 +1,15 @@
-<div style="text-align:center; background-color: #000000">
-    <img src="docs/imgs/Academy-Logo-for-Course-Player.png" />
+<div align="center">
+    <img src="docs/imgs/logo-dark.svg" />
 </div>
 
 <br>
 
-# Module 1 Resource:
-
-## Notebooks:
+# Notebooks:
 - Download Course from then official [GitHub repository](https://github.com/langchain-ai/lca-lc-foundations)
+
+<br>
+
+# Module 1 Resource:
 
 ### Lesson 1: Foundation Models
 - Notebook Reference: 1.1_foundational_models.ipynb
@@ -26,3 +28,26 @@
 ### Lesson 5: Personal Chef
 - Notebook Reference: 1.5_personal_chef.ipynb
 - Python Reference: 1.5_personal_chef.py
+
+
+<br>
+
+# Module 2 Resource:
+
+### Lesson 1: MCP
+- Notebook Reference: 2.1_mcp.ipynb
+- Notebook Reference: 2.1_travel_agent.ipynb
+
+### Lesson 2: Context and State
+- Notebook Reference: 2.2_runtime_context.ipynb
+- Notebook Reference: 2.2_state.ipynb
+
+### Lesson 3: Multi-Agent Systems
+- Notebook Reference: 2.3_multi_agent.ipynb
+
+### Lesson 4: Wedding Planner
+- Notebook Reference: 2.4_wedding_planners.ipynb
+
+### Bonus: RAG & SQL Query
+- Notebook Reference: bonus_rag.ipynb
+- Notebook Reference: bonus_sql.ipynb
