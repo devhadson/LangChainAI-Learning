@@ -68,3 +68,34 @@
 **Lesson 6: Email Assistant**
 
 - Front End App Reference: agent-chat-ui
+
+## Introduction to LangGraph Python
+
+### Notebooks:
+- Download Course from then official [GitHub repository](https://github.com/langchain-ai/langchain-academy)
+
+**Clone repo**
+
+```bash
+git clone https://github.com/langchain-ai/langchain-academy.git
+$ cd langchain-academy
+```
+
+**Create an environment and install dependencies**
+
+```bash
+$ python3 -m venv lc-academy-env
+
+$ source lc-academy-env/bin/activate        # dependency from Linux/Mac where it's on bin
+$ source lc-academy-env/Scripts/activate    # dependency from Windows where it's on Scripts
+
+$ pip install -r requirements.txt
+```
+
+**Getting Set Up (Video Guide)**
+
+- Notebook Reference: basics.ipynb
+- Download Notebook on [GitHub](02.Introduction-to-LangGraph-Python/module-0/basics.ipynb)
+- Use Notebook on [Google Colab](https://colab.research.google.com/)
+
+> First download basics.ipynb file next load on Google Colab
